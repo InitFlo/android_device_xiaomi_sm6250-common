@@ -396,6 +396,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.power-service-qti
 
+# Protobuf
+PRODUCT_PACKAGES += \
+    libprotobuf-cpp-full-3.9.1-vendorcompat
+
 # RCS
 PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
