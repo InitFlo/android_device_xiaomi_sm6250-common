@@ -117,6 +117,10 @@ vendor/lib/libbluetooth_audio_session_qti_2_1.so
 system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
 system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
 
+# Camera provider
+vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
+vendor/lib64/vendor.qti.hardware.camera.device@3.5.so
+
 # Camera - from V12.5.6.0.RJWMIXM
 vendor/lib64/hw/camera.qcom.so|afdb8a823ea02921608e3d331ceae94f9495adf3
 vendor/lib64/hw/com.qti.chi.override.so|1a7de9d19d5e1ae4a71394088e18bfd60721663c
