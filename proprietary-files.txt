@@ -354,10 +354,6 @@ vendor/etc/camera/megviifacepp_0_5_2_model|a2b8751f04d94f0634453c40426e66b0a1283
 vendor/lib64/libMegviiFacepp-0.5.2.so|a439145c3700d62446af21fe385775e6d5cb1a9a
 vendor/lib64/libmegface.so|8f67d986f23a110e48a2c6c57024ac3dee4993aa
 
-# Camera provider - from V12.5.6.0.RJWMIXM
-vendor/lib/android.hardware.camera.provider@2.4-legacy.so|3fdb131775f3daeb72df27e4f327227f33e10c68
-vendor/lib64/android.hardware.camera.provider@2.4-legacy.so|e90855d38e25b174be097fc25d614ca767ab2c06
-
 # CDSP
 vendor/bin/cdsprpcd
 vendor/etc/init/vendor.qti.cdsprpc-service.rc
