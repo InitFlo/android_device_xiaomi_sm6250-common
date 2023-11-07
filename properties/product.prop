@@ -27,3 +27,8 @@ persist.vendor.ims.disableQXDMLogs=1
 # Transcoding related property.
 debug.media.transcoding.codec_max_operating_rate_720P=240
 debug.media.transcoding.codec_max_operating_rate_1080P=120
+
+# Enable USB debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.debuggable=1
